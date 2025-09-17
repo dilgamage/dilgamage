@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **MERN Stack,Java,JavaScript,HTML,CSS,C,C++,MySQL**
+- 💬 Ask me about **MERNStack,Java,JavaScript,HTML,CSS,C,C++,MySQL**
 
 - 📫 How to reach me **chanikadilini6@gmail.com**
 
